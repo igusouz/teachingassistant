@@ -9,3 +9,4 @@ Given I am able to see the student profile
 I put put on his grades
 Then the system calculates his grades
 Then his able to see his average
+test
